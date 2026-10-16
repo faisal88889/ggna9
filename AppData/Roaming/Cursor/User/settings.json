@@ -1,0 +1,20 @@
+{
+    "window.autoDetectColorScheme": true,
+    "workbench.editorAssociations": {
+        "*.exe": "default"
+    },
+    "terminal.integrated.commandsToSkipShell": [
+        ""
+    ],
+    "terminal.integrated.sendKeybindingsToShell": true,
+    "gitlens.graph.details.location": "auto",
+    "gitlens.gitkraken.mcp.autoEnabled": false,
+    "gitlens.advanced.messages": {
+        "suppressFileNotUnderSourceControlWarning": true
+    },
+    "files.autoSave": "onWindowChange",
+    "stripe.cliInstallPath": "https://github.com/stripe/stripe-cli.git",
+    "extensions.installCooldownHours": 1,
+    "editor.unicodeHighlight.invisibleCharacters": false,
+    "workbench.statusBar.visible": false
+}
